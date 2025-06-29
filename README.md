@@ -7,9 +7,9 @@ A fully functional Join to Create Voice Channel System for Discord written in Py
 🎛️ Interactive Control Panel – Use buttons to manage VC:
 
 🔒 Lock / 🔓 Unlock
-👁 Hide / 👁‍🗨 Unhide
+👁 Hide / 👁‍🗨 Unhide 
 👥 Limit user count
-✏️ Rename channel
+✏️ Rename channel 
 👑 Transfer ownership
 🚫 Delete the VC
 🧠 Ownership Tracking – Only VC owners can use controls.
